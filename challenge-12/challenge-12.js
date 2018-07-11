@@ -12,9 +12,9 @@
   de valor para cada propriedade.
   */
   var person = {
-  name: 'Ruan',
-  lastname: 'Valente',
-  age: 23
+    name: 'Ruan',
+    lastname: 'Valente',
+    age: 23
   };
 
   console.log( 'Propriedades de "person":' );
