@@ -55,7 +55,6 @@
   console.log( ruan );
   console.log( lorena );
   console.log( carlos );
-  console.log( 'uiii' );
 
   /*
   Mostre no console o nome completo de cada pessoa.
