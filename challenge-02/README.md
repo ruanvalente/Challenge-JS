@@ -84,8 +84,9 @@ function threeArgs2( arg1, arg2, arg3 ) {
 }
 
 // Invoque a função acima utilizando todas as possibilidades (com nenhum argumento, com um, com dois e com três.) Coloque um comentário de linha ao lado da função com o resultado de cada invocação.
-retorno(); // false
-retorno(1); // 1
-retorno(1,2) // 3
-retorno(1,2,3) // 3
+threeArgs2( 1 ); // 1
+threeArgs2( 1, 2 ); // 3
+threeArgs2( 1, 2, 3 ); // 1
+threeArgs2(); // false
+threeArgs2( null );
 ```
