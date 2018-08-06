@@ -309,4 +309,4 @@
 - Diferenças entre console.log e return
 - Objetos e encerramento
 
-### Fim, acho que aqui eu viro um nija :smile:
+### Fim, acho que aqui eu viro um ninja :smile:
