@@ -1,5 +1,5 @@
 # Aulas que eu já conclui do curso ou que faltam revisar :heart: :smile:.
-## Situação das aulas: **Aula 12** concluida.
+## Situação das aulas: **Aula 12** revisar.
 1. [r] - Revisão.
 2. [x] - Concluido.
 
